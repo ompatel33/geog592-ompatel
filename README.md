@@ -4,8 +4,8 @@ This repository contains exercises and assignments for GEOG 592.
 
 ## Student information
 
-Name:
+Name: Om Patel
 
-ONYEN:
+ONYEN: ompatel
 
-GitHub username:
+GitHub username: ompatel33
