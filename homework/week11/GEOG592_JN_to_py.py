@@ -36,7 +36,9 @@ county_pie("Orange")
 county_figure("Orange")
 county_info("Orange")
 
-# This might take a few seconds and you need at least 40MB of free space in your computer
+# This might take a few seconds
 with PdfPages("NC_Counties.pdf") as pdf:  #with #manages a resource and automatically cleans up when you finish using it.
     for county in nc_counties["NAME"]:
         county_figure(county, pdf)
+
+
